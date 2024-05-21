@@ -1,0 +1,50 @@
+*{
+    margin: 10px;
+    padding: 3px;
+    box-sizing: border-box;
+}
+.main-container {
+    width: 40vw;
+    margin: auto;
+    border-radius: 130px;
+    border: black  ;
+    justify-items: center;
+}
+
+.input-container input {
+    font-size: 22px;
+    width: 90%;
+    border-radius: 78px;
+    border: none;
+
+}
+.input-container p{
+    color: black;
+    margin-bottom: 0px;
+}
+
+.account{
+    text-align: center;
+}
+
+.register-button{
+    background-color: purple;
+    border: none;
+    padding: 12px;
+    align-items: center;
+    padding-inline: 30px;
+    border-radius: 5px;
+    margin-inline: 33%;
+    color: white;
+
+}
+.welcome-page{
+    margin-bottom: 0px
+}
+.welcome-page h1{
+    margin-bottom: 0px;
+    text-align: center;
+}
+.input-container input{
+    border: none;
+}
